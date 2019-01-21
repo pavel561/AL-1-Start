@@ -10,11 +10,12 @@ namespace Advanced_Lesson_1_OOP
     {
         static void Main(string[] args)
         {
-            //Lesson.AbstractionShapeExample();
-            //Lesson.OverloadingExample();
-            //Lesson.InheritanceTransportExample();
+			//Lesson.AbstractionShapeExample();
+			//Lesson.OverloadingExample();
+			//Lesson.InheritanceTransportExample();
+			Practice.A_L1_P1_OOP();
 
-            Practice.A_L1_P7_OperatorsOverloading();
+			//Practice.A_L1_P7_OperatorsOverloading();
 
             Console.ReadKey();
         }
